@@ -1,5 +1,9 @@
-h1 {text-align: center;}
-p {
-    text-align: justify;
+body{text-align: center;
     text-justify: inter-word;
   }
+h1{
+  text-align: center;
+}
+div{
+  text-align: justify;
+}
