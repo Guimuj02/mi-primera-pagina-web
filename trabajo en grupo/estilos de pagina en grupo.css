@@ -2,14 +2,14 @@ body{text-align: center;
     text-justify: inter-word;
   }
 h1, h2 {
-  background-color:DodgerBlue;
+  background-color: # 
   text-align: center;
 }
 img {
   width: 50%;
 }
 hr.dashed {
-  border-top: 3px dashed rgb(229, 233, 13);
+  border-top: 3px dashed #E5E90D;
 }
 hr.dotted {
   border-top: 3px dotted rgb(14, 207, 241);
