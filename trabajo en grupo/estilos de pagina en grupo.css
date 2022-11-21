@@ -1,7 +1,7 @@
 body{text-align: center;
     text-justify: inter-word;
   }
-h1{
+h1, h2 {
   background-color:DodgerBlue;
   text-align: center;
 }
